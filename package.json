@@ -17,6 +17,7 @@
   "files": [
     "build/",
     "images/",
+    "scripts",
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md"
   ],
